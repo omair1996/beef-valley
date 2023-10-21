@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beef-valley/static/css/main.9b78c826.css",
+    "main.js": "/beef-valley/static/js/main.3e120824.js",
+    "static/js/787.78a12aa3.chunk.js": "/beef-valley/static/js/787.78a12aa3.chunk.js",
+    "index.html": "/beef-valley/index.html",
+    "main.9b78c826.css.map": "/beef-valley/static/css/main.9b78c826.css.map",
+    "main.3e120824.js.map": "/beef-valley/static/js/main.3e120824.js.map",
+    "787.78a12aa3.chunk.js.map": "/beef-valley/static/js/787.78a12aa3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b78c826.css",
+    "static/js/main.3e120824.js"
+  ]
+}
